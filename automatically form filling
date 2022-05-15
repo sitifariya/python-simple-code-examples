@@ -1,0 +1,7 @@
+print("FORM")
+
+first_name = "Siti"
+occupation = "Researcher"
+Institution = "University of Strathclyde"
+
+print(f"This project belongs to {first_name} as {occupation} in {Institution}.")
