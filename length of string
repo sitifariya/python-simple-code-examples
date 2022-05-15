@@ -1,0 +1,2 @@
+a = "elon musk"
+print(len(a))
