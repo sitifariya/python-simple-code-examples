@@ -1,0 +1,14 @@
+myvar = "Siti"
+my_var = "Siti"
+_my_var = "Siti"
+myVar = "Siti"
+MYVAR = "Siti"
+myvar2 = "Siti"
+
+
+print(myvar)
+print(my_var)
+print(_my_var)
+print(myVar)
+print(MYVAR)
+print(myvar2)
