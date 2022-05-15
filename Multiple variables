@@ -1,0 +1,19 @@
+x, y, z = "tesla", "spacex", "crypto"
+print(x)
+print(y)
+print(z)
+
+print("\n")
+
+x = y = z = "tesla"
+print(x)
+print(y)
+print(z)
+
+print("\n")
+
+elon_musk = ["tesla", "spacex", "crypto"]
+x, y, z = elon_musk
+print(x)
+print(y)
+print(z)
