@@ -1,4 +1,0 @@
-x = "siti"
-y = 30
-print(x)
-print(y)
